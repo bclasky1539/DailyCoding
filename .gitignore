@@ -1,0 +1,9 @@
+# ignoring specific files
+.DS_Store
+/alchemy_testing/.env
+/alchemy_testing/PostgreSQL_Roles.sql
+# igorning specific directories
+/Scraping/
+# ignorning specific environments
+.idea/
+# exceptions
