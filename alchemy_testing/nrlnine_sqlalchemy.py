@@ -1,4 +1,3 @@
-# https://www.youtube.com/watch?v=AKQ3XEDI9Mw - neuralnine_sqlalchemy
 from typing import Type, List
 from sqlalchemy import create_engine, Engine, text, ForeignKey, Column, String, Integer
 from sqlalchemy.orm import sessionmaker, declarative_base, Session
