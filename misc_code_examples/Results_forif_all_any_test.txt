@@ -1,0 +1,60 @@
+1st run - 63,211 records
+len(cities) = 63211
+city = 'wrangell,'
+for_if_cities_capitalized() = False
+CPU Execution time for/if: 0.0051320000000001365 seconds
+all_cities_capitalized() = False
+CPU Execution time all: 1.9999999998354667e-06 seconds
+any_cities_capitalized() = True
+CPU Execution time any: 0.0029879999999997686 seconds
+
+2nd run - 126,422 records
+len(cities) = 126422
+city = 'wrangell'
+for_if_cities_capitalized() = False
+CPU Execution time for/if: 0.00495100000000015 seconds
+all_cities_capitalized() = False
+CPU Execution time all: 5.000000000254801e-06 seconds
+any_cities_capitalized() = True
+CPU Execution time any: 0.009571999999999914 seconds
+
+3rd run - 252,844 records
+len(cities) = 252844
+city = 'wrangell'
+for_if_cities_capitalized() = False
+CPU Execution time for/if: 0.003786999999999985 seconds
+all_cities_capitalized() = False
+CPU Execution time all: 3.9999999996709334e-06 seconds
+any_cities_capitalized() = True
+CPU Execution time any: 0.0061309999999998865 seconds
+
+4th run - 505,688 records
+len(cities) = 505688
+city = 'wrangell'
+for_if_cities_capitalized() = False
+CPU Execution time for/if: 0.007056000000000395 seconds
+all_cities_capitalized() = False
+CPU Execution time all: 5.999999999950489e-06 seconds
+any_cities_capitalized() = True
+CPU Execution time any: 0.01159299999999952 seconds
+
+5th run - 1,011,376 records
+len(cities) = 1011376
+city = 'wrangell'
+for_if_cities_capitalized() = False
+CPU Execution time for/if: 0.014483999999999497 seconds
+all_cities_capitalized() = False
+CPU Execution time all: 8.999999999481645e-06 seconds
+any_cities_capitalized() = True
+CPU Execution time any: 0.02258400000000016 seconds
+
+6th run - 2,022,752 records
+len(cities) = 2022752
+city = 'wrangell'
+for_if_cities_capitalized() = False
+CPU Execution time for/if: 0.036293999999999826 seconds
+all_cities_capitalized() = False
+CPU Execution time all: 1.0000000000509601e-05 seconds
+any_cities_capitalized() = True
+CPU Execution time any: 0.04638800000000032 seconds
+

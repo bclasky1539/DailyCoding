@@ -2,6 +2,8 @@
 .DS_Store
 /sqlalchemy_testing/.env
 /sqlalchemy_testing/PostgreSQL_Roles.sql
+/misc_code_examples/us_cities_states_counties_old.csv
+/misc_code_examples/us_cities_states_counties_orig.csv
 # igorning specific directories
 /Scraping/
 # ignorning specific environments
