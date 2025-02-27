@@ -1,1 +1,1 @@
-## This project is a set of tutorials for Python
+## This project is a set of tutorials and miscellaneous examples for Python
