@@ -1,0 +1,7 @@
+# ignoring specific files
+README.md
+# igorning specific directories
+target/
+dbt_packages/
+logs/
+documentation/
