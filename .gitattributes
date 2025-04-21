@@ -1,0 +1,14 @@
+# Make SQL files count in language statistics
+*.sql linguist-detectable=true
+
+# Make YAML files count in language statistics
+*.yml linguist-detectable=true
+*.yaml linguist-detectable=true
+
+# Make Shell scripts count in language statistics
+*.sh linguist-detectable=true
+
+# Optionally specify language if detection is incorrect
+# *.sql linguist-language=SQL
+# *.yml linguist-language=YAML
+# *.sh linguist-language=Shell
